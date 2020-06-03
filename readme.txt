@@ -28,6 +28,8 @@
 
    git remote add origin https://github.com/ev-power/XiaoYong 关联一个远程库
 
+   git reomte remove origin 取消链接
+
    git push –u(第一次要用-u 以后不需要) origin master 把当前master分支推送到远程库
 
    git clone https://github.com/ev-power/XiaoYong  从远程库中克隆
